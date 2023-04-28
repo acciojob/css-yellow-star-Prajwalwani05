@@ -3,9 +3,9 @@
   display: inline-block;
   width: 0;
   height: 0;
-  border-right: 30px solid transparent;
-  border-bottom: 50px solid yellow;
-  border-left: 30px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid yellow;
+  border-left: 50px solid transparent;
   transform: rotate(45deg);
   position: relative;
   margin: 50px;
@@ -14,9 +14,9 @@
   content: "";
   width: 0;
   height: 0;
-  border-right: 30px solid transparent;
-  border-bottom: 50px solid yellow;
-  border-left: 30px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid yellow;
+  border-left: 50px solid transparent;
   transform: rotate(60deg);
   position: absolute;
   top: -1px;
